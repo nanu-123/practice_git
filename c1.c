@@ -2,6 +2,6 @@
 
 int main() {
     // Print "Hello, World!" to the console
-    printf("Hello, World!\n");
+    printf("Hello, World!\n");//printing hello world
     return 0; // Return 0 to indicate successful execution
 }
